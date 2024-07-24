@@ -14,7 +14,9 @@
 *.tax2010
 *.vcf
 *.xml
-*.xslx
+
+# Ignore Excel files
+*.xlsx
 
 ### Git ###
 # Created by git for backups. To disable backups in Git:
